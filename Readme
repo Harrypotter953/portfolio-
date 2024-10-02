@@ -1,2 +1,18 @@
-Readme.html
-This is my first html code
+<!DOCTYPE html>
+<html lang="eng">
+    <head>
+        <h1>
+            <big><b>Portfolio</b></big>
+        </h1>
+    </head>
+
+    <body>
+        <p>
+            This is my first coding project 
+            <br />
+            Therefore I am very excited to code
+            <br />
+            I have learnt <b>HTML</b> code from youtube channel named <b><u>"Apna college"</u></b>
+        </p> 
+    </body>
+</html>
